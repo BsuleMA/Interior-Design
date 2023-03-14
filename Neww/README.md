@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://interior-design-master.pages.dev/">
       Demo
     </a>
     <span> | </span>
@@ -38,10 +38,14 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
+- Where can I see your demo? You can see my demo on here:
+      https://interior-design-master.pages.dev/
 - What was your experience?
+      It was surprisingly really challanging, but really worth it.
 - What have you learned/improved?
+   I have definately improved especially using javascript for the showing and use of the nav bar menu.
 - Your wisdom? :)
+      Be consistent!
 
 ### Built With
 
